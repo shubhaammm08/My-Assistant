@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="assistant_title">JARVIS AI Assistant</string>
+    <string name="status_online">ONLINE // GEMINI 2.5</string>
+    <string name="status_offline">OFFLINE // EDGE BRAIN</string>
+    <string name="mic_listening">Listening to voice input...</string>
+    <string name="mic_tap_to_speak">Tap to speak or say \'Jarvis\'</string>
+    <string name="task_title_hint">Enter new task or voice reminder...</string>
+    <string name="chat_input_hint">Ask JARVIS anything (English, Hindi, Marathi)...</string>
+</resources>
+

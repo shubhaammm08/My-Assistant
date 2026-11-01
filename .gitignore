@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.db
+jarvis.db
+.pytest_cache/
+.env
+
+# Android / Gradle
+.gradle/
+build/
+app/build/
+*.iml
+.idea/
+local.properties
+.DS_Store
+Thumbs.db
+*.apk
+*.aab
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS specific
+Desktop.ini
+$RECYCLE.BIN/

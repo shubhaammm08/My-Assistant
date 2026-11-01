@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jarvis_black">#0A0E17</color>
+    <color name="jarvis_card_dark">#121826</color>
+    <color name="jarvis_cyan">#00F2FE</color>
+    <color name="jarvis_blue">#4FACFE</color>
+    <color name="jarvis_purple">#7F00FF</color>
+    <color name="jarvis_neon_green">#00FF87</color>
+    <color name="jarvis_text_white">#F0F4F8</color>
+    <color name="jarvis_text_muted">#8A99AD</color>
+</resources>
+
